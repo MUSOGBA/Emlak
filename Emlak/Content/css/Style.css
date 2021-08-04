@@ -1,0 +1,40 @@
+﻿.overlay {
+    background: url("../images/pexels-pixabay-259588.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 80vh;
+}
+
+.overlay .col-md-12 {
+     margin-top: 250px;
+     background-color: rgba(241, 242, 246,.3);
+     border-radius: 1rem;
+}
+
+.mainContent .nav-link {
+    color: white;
+    font-size: small;
+    font-weight: bold;
+}
+
+.mainContent .tab-content {
+    margin-top: 50px;
+}
+
+.mainContent .search {
+    margin-bottom: 50px;
+}
+
+.container-fluid .row {
+    background-color: rgba(87, 96, 111,1.0)
+}
+
+.list-unstyled a{
+    text-decoration:none;
+
+}
+
+.card-group .card {
+    border: none;
+}
+
+
